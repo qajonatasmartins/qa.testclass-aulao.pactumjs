@@ -1,0 +1,1 @@
+# qa.testclass-aulao.pactumjs
